@@ -1,0 +1,25 @@
+
+button,a {
+	font-size: 20px;
+	text-decoration: none;
+	font-family: Helvetica;
+	font-weight: bold;
+	color: #aaaaaa;
+	border: 2px solid #aaaaaa; 
+	border-radius: 25px;
+	padding: 10px;
+	background-color: white;
+	outline:none;
+}
+button:hover, a:hover {
+	text-decoration: none;
+	font-family: Helvetica;
+	font-weight: bold;
+	color: white;
+	border: 2px solid #f3eac2; 
+	border-radius: 25px;
+	padding: 10px;
+	background-color: #f5b461;
+	outline:none;
+	cursor: pointer;
+}
